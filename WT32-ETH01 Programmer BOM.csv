@@ -1,0 +1,6 @@
+Id,Designator,Package,Quantity
+7,U1,WT32-ETH01,1
+8,"25mm,25mm",DinRailAdapter_2xM3_pheonixContact,2
+9,J1,PinHeader_1x04_P2.54mm_Horizontal,1
+10,"J2,J3",FlexyPin_1x13_P2.54mm,26
+11,SW1,SW_PUSH_6mm,1
